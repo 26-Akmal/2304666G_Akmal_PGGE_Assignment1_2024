@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|c:\\users\\affandi\\downloads\\pgge-a1-2024\\pgge-a1-2023\\assignment1_unityproject\\assets\\monstermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|solutionrelative:assets\\monstermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\assets\\footcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|solutionrelative:assets\\footcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersoncamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFA85B0-9C1A-B002-2913-664021CC6512}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\Scripts\\RepositionCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RepositionCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "footCollider.cs",
+              "DocumentMoniker": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\footCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\footCollider.cs",
+              "ToolTip": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\footCollider.cs",
+              "RelativeToolTip": "Assets\\footCollider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:19:35.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAwwKgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:47:37.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwNMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:47:59.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonsterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\MonsterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\MonsterMovement.cs",
+              "ToolTip": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\MonsterMovement.cs",
+              "RelativeToolTip": "Assets\\MonsterMovement.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAowIIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:05:58.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositionCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\Scripts\\RepositionCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepositionCamera.cs",
+              "ToolTip": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\Scripts\\RepositionCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepositionCamera.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:57:52.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThirdPersonCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\Scripts\\ThirdPersonCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ThirdPersonCamera.cs",
+              "ToolTip": "C:\\Users\\Affandi\\Downloads\\PGGE-A1-2024\\PGGE-A1-2023\\Assignment1_UnityProject\\Assets\\Scripts\\ThirdPersonCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ThirdPersonCamera.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAmwGsAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:51:55.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
